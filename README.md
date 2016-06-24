@@ -1,3 +1,7 @@
+# Supported tags and respective `Dockerfile` links
+
+-	[`android-24` (*android-24/Dockerfile*)](https://github.com/eiabea/docker-android-project/blob/master/Dockerfile)
+
 # Dockerfile for Android Projects
 
 This is a Dockerfile to make minimum images for Android projects.
