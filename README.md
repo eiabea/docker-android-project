@@ -1,6 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
 -	[`android-24` (*android-24/Dockerfile*)](https://github.com/eiabea/docker-android-project/blob/master/Dockerfile)
+-	[`android-25` (*android-25/Dockerfile*)](https://github.com/eiabea/docker-android-project/blob/master/Dockerfile)
 
 # Dockerfile for Android Projects
 
